@@ -1,4 +1,4 @@
-# Logs
+why# Logs
 logs
 *.log
 npm-debug.log*
@@ -135,4 +135,4 @@ dist
 .yarn/install-state.gz
 .pnp.*git add .gitignore
 git commit -m "Add .env and other sensitive files to .gitignore"
-git push origin main
+git push origin main  openaiKey: "sk-proj-kWXGNazFmpDySfun P8-5LuWBGb9aCwGq6kJ_C N20phx7nPBCewWXrwVo3Grh sWledqFYYRooQxT3BlbkFJIXX JOke ONBnİZNBtDdw5WxZIAZv 2Q3fSVshOHC6SKCssUGdP OvZrewbqH-LOdpi3rkwjnEVKA",  piWalletAddress: "GB4BFDQHJKSUHONG74JDCGDENFETLQM4HTQ7P6AKQBP5PLYFBKAFE4SD"const openaiKey = import.meta.env.VITE_OPENAI_API_KEY;
